@@ -30,7 +30,7 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :ilahazs:</h2>
+<h2 align="center">You can reach me at : ——ilahazs——</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -62,7 +62,7 @@ func GetBio() Bio {
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist_innovative:</h2>
+<h2 align="center">—— LOL ——</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
