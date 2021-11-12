@@ -2,8 +2,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ilahazs</h1>
+<h3 align="center">Software Engineer | Database Designer | Software Designer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
+    This is ME, Ilahazs, a <b>student</b> undergraduate from <a href="https://belajar.smkn4bdg.sch.id/my/"> <b>SMKN 4 Bandung of engineering & technology</b>, ilahazs</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -46,29 +46,22 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
+ 
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+  
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+  
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
