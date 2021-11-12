@@ -65,7 +65,7 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
  
 <hr>
-Credits: [Ilahazs](https://github.com/ilahazs)
+Credits: [ Ilahazs ](https://github.com/ilahazs)
 
 Last Edited on: 12/11/2021
 
